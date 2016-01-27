@@ -1,0 +1,15 @@
+{
+    "github": {
+        "source": "testFolder",
+        "remote": "origin",
+        "branch": "master",
+        "github": {
+            "repository": "https://github.com/Betasoft111/mytestrepo.git"
+        }
+    },
+    "concat": {},
+    "watch": {},
+    "min": {},
+    "cdn": {},
+    "img-min": {}
+}
