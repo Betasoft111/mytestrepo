@@ -1,1 +1,0 @@
-console.log("this is read from sample git config file")
